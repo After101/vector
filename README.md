@@ -11,9 +11,9 @@
  
 
   Current status:
-    - PCB complete
-    - Enclosure complete
-    - Firmware not done yet
+  - PCB complete
+  - Enclosure complete
+  - Firmware not done yet
 
   This is my first project by the way so my fault if its a little messy cause I kinda dont know what I'm doing lmao
 
