@@ -20,7 +20,7 @@
   Images:
 
   <img width="886" height="850" alt="image" src="https://github.com/user-attachments/assets/59445c34-5489-4b14-9aa1-286a3f36dae5" />
-  i genuinely dont know why the pcb has no copper in a few spots, maybe its because too many vias in those areas
+i genuinely dont know why the pcb has no copper in a few spots, maybe its because too many vias in those areas
   
   <img width="986" height="664" alt="image" src="https://github.com/user-attachments/assets/6217269c-2b5b-4d9e-81c1-2fdabe7022bb" />
   first time in fusion 360 this took 2 days to learn
