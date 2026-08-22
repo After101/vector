@@ -1,4 +1,5 @@
-# cool-watch
+# vector
+
   This is a custom wearable I'm working on that uses the nRF52840 featuring:
   - BLE
   - Gesture based controls
