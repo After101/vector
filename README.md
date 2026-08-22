@@ -16,7 +16,9 @@
   - Firmware not done yet
 
   This is a revision of my previous project lol
+  
   Images:
+  
   4 layer PCB finally
   <img width="856" height="572" alt="image" src="https://github.com/user-attachments/assets/34c35413-4a38-4ce0-a8da-2723af9418d3" />
   
